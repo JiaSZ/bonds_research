@@ -10,9 +10,9 @@ pd.Timestamp.to_period
 
 ②df加总及遍历  
 df['turnOver 成交量（亿）'][index]  
-for index, value in enumerate(t)
-for index, row in d.iterrows()
-X = func.iloc[:, 1:]
+for index, value in enumerate(t)  
+for index, row in d.iterrows()  
+X = func.iloc[:, 1:]  
 
 ③w.edb()使用  
 
