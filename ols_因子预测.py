@@ -14,7 +14,7 @@ import statsmodels.api as sm
 dataframe遍历
 字典转pd
 多元线性回归
-cd = 'F:\Projects\1.工作实习\正式实习项目\CITICS-2021-11\1_票据研究\Data'
+cd = 'F:\Projects\***\Data'
 
 '''
 
